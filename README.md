@@ -11,7 +11,7 @@ This repository contains the source code for the Associated Engineering Digital 
 
 ## Getting Started
 
-For detailed setup instructions, configuration, and deployment steps, please refer to the [Documentation](docs/SETUP.md) file.
+For detailed setup instructions, configuration, and deployment steps, please refer to the [Documentation](https://github.com/Mukuman/Associated-Engineering-DAM-Project/tree/main/Documentation) file.
 
 ### Important Notes
 - **Secrets and sensitive configuration** such as database connection strings and storage keys must be set as environment variables.  
